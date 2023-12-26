@@ -50,10 +50,10 @@ You can find a link to get started with installation and restoration of the data
 
 ## Data Transformation
 
-- I added another column on orders table to calculate days between the oreder and the ship date
+- I added another column on orders table to calculate days between the order and the ship date
   ![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/orders%20data%20modelling.png)
 - After carefully studying the data set, I have to add column showing calculation for TotalPrice on Order_details Table, this is done in both excel powerBI
-  ![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/orders%20data%20modelling.png)
+  ![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/order_details%20transformation.png)
   ![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/powerBI_data.png)
 
 - I began writing several Dax with aggregate to create measures with right metrics. Measures  created name is "Measures".
