@@ -25,7 +25,7 @@ building a top-level KPI dashboard for the executive team. Its purpose should be
   - Sales trends
   - Product performance
   - Key customers
-  - Key customers
+  - Shipping Cost
 
 ## Skills and Concept Demonstrated:
 
