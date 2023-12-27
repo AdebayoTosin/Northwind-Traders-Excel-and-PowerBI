@@ -82,12 +82,20 @@ Tables were automatically joined by creating relationships with them, PowerBI do
   - I used pivot table to join and create relationship betwee  Order table and order_details table. i show trends in  **sales in months history and sales over time**
 ![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/month%20order%20history.png)
 ![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/revenue%20over%20time.png)
+
+- Calculate the average time it takes to process an order from the order date to the
+shipped date.
+
 - PowerBI dashboard showing;
   - Sales trends
   - Product performance
   - Key customers
   - Key customers
   ![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/PowerBI%20dashboard.png)
+
+## Insight
+
+-  
 
 
 
