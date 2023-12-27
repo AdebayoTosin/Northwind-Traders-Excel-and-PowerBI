@@ -85,18 +85,45 @@ Tables were automatically joined by creating relationships with them, PowerBI do
 
 - Calculate the average time it takes to process an order from the order date to the
 shipped date.
+  - average function is used on Order table days_btw_orderdate_shipdate column
+![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/Average%20days.png)
 
 - PowerBI dashboard showing;
   - Sales trends
   - Product performance
   - Key customers
-  - Key customers
+  - Shipping costs
   ![image](https://github.com/AdebayoTosin/Northwind-Traders-Excel-and-PowerBI/blob/main/PowerBI%20dashboard.png)
 
 ## Insight
 
--  
+- There are 8 categories of products and beverages has the highest revenue of $286,526.95
+- CustomerID that place the highest order is SAVEA with 31 orders
+- Employee with the highest sales generated is Margaret Peacock
+- With the history of sales in months over 2013,2014,2015,there is highest order in March and April with 103 andd 105 orders respectively
+- Overtime the highest revenue was genrated in 2015 April with 134,630.56
+- The Average time it takes to process an order from the order date to shipped date is 8days
+- The total shippingcost generated between 2013,2014,2015 is $64.94k
+- There are 91 customer that generate 830 order i 21 countries over the years in the dataset
+- Total revenue generate is $1.27m
+- federal shipping has 20.51k shipping cost with 255 orders,
+  speed express has 16.19k shipping cost with 249 orders,
+  united package has 28.24k shipping cost with 326 orders
 
+## Recommendation
+
+There are no doubts that the Business is performing well as the sales is in up trend as the years progress. However there is room for more improvement.
+
+- There just 91 customers in 21 countries that make 830 orders, there should be improvement in sale,advertisment and discount  to attract new customer
+- The cost Shipping should be reduced to increase profit margins,the 3 shipping companines currently in use are cost effective than the other. federal shipping is expensive to use ,further investigation should be done to know why.
+- Awards and incentive should be introduced among the employee to create competition that improve sales.
+- There is reportedly  low sales in june of every year in the dataset, further investigation should be done to know why and solution should be provided to increase sale in this month and accross other month.
+
+## Thank you for reading
+
+I am open for entry-level data anlalyst role.
+
+Let us have discussion about your company and industry now!
 
 
 
