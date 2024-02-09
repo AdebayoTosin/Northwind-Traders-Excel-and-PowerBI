@@ -4,11 +4,11 @@
 - author: Tosin Emmanuel
 - Date: 2023-12-26
 
-#### Disclaimer: This is not real-world project but use for the purpose of learning to demostrate my skills in Excel and PowerBI
-
 ## Project Description
 
 This is an analysis of the Sales performance of Northwind Traders, I will analyse data from Northwind Trader dataset from category table,customer table,employee table,order table,order_detail table,products table and shipper table both on Excel and powerBI to solve different business questions, I imported the dataset to excel and powerBI from local disk respectively.
+
+#### Disclaimer: This is not real-world project but use for the purpose of learning to demostrate my skills in Excel and PowerBI
 
 ## Problem Statement.
 
