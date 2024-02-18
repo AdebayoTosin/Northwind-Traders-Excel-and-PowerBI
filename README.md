@@ -32,7 +32,7 @@ building a top-level KPI dashboard for the executive team. Its purpose should be
 - Excel
   - pivot table
   - data modeling
-  - functions:inedx,match,mode,average.
+  - functions:index,match,mode,average.
 - PowerBI
   - creating new column to calculate total price
   - Creating key performance indicators (KPIs) and other business calculations,
